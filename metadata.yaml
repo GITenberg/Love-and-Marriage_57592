@@ -1,0 +1,37 @@
+_repo: Love-and-Marriage_57592
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Ellis, Havelock
+    alias: Ellis, Henry Havelock
+    birthdate: 1859
+    deathdate: 1939
+    gutenberg_agent_id: '2654'
+    url: http://www.gutenberg.org/2009/agents/2654
+    wikipedia: http://en.wikipedia.org/wiki/Havelock_Ellis
+  translator:
+    agent_name: Chatter, Arthur G.
+    gutenberg_agent_id: '49491'
+    url: http://www.gutenberg.org/2009/agents/49491
+creator:
+  author:
+    agent_name: Key, Ellen
+    alias: Key, Ellen Karolina Sofia
+    birthdate: 1849
+    deathdate: 1926
+    gutenberg_agent_id: '502'
+    url: http://www.gutenberg.org/2009/agents/502
+    wikipedia: http://en.wikipedia.org/wiki/Ellen_Key
+description: ''
+gutenberg_issued: '2018-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57592'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Love and Marriage
+url: http://www.gutenberg.org/ebooks/57592
