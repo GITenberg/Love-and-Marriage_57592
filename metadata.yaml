@@ -1,5 +1,5 @@
 _repo: Love-and-Marriage_57592
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Ellis, Havelock
@@ -13,6 +13,9 @@ contributor:
     agent_name: Chatter, Arthur G.
     gutenberg_agent_id: '49491'
     url: http://www.gutenberg.org/2009/agents/49491
+covers:
+- cover_type: archival
+  image_path: 57592-h/images/cover.jpg
 creator:
   author:
     agent_name: Key, Ellen
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/502
     wikipedia: http://en.wikipedia.org/wiki/Ellen_Key
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57592#Love-and-Marriage
 gutenberg_issued: '2018-07-28'
 gutenberg_type: Text
 identifiers:
